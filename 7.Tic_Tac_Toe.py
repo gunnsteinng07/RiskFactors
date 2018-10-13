@@ -23,7 +23,7 @@ def make_dimensions_list(dimensions):
             end += dimensions
     return dimensions_list
 
-
+# test
 
 # nota þetta hér til að prufa það sem ég er kominn með.
 # uppfæri eftir því hvað ég er að prufa.
